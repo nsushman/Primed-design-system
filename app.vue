@@ -50,7 +50,8 @@
       <h1>H1 Major heading</h1>
       <h2>H2 Page heading</h2>
       <h3>H3 Section header</h3>
-      <div class="tableHeader">Table Header</div>
+      <th>Table Header</th>
+      <small>Small text</small>
     </div>
     <!--End of Main div-->
   </div>
